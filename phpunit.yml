@@ -1,0 +1,2 @@
+Name: PHPUnit Run Test
+Command: phpunit -c test

@@ -1,0 +1,2 @@
+Name: PHP Server Up
+Command: php -S localhost:8000
