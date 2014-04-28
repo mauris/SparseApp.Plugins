@@ -1,0 +1,2 @@
+Name: Laravel Maintenance Off
+Command: php artisan down
